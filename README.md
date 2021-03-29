@@ -15,9 +15,10 @@
 ##3.Success of others
     -Don't foget "Sucess of your team sucess of you"
 
-**The features used:**
-1.list
-2.Nested list
-3.Using emoji
-4.Headings
-5.Styling text
+**The features was used:**
+
+1. list
+2. Nested list
+3. Using emoji
+4. Headings
+5. Styling text
