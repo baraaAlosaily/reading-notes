@@ -22,3 +22,7 @@
 3. Using emoji
 4. Headings
 5. Styling text
+
+![mind](https://www.sodapdf.com/blog/wp-content/uploads/2019/10/mind-mapping-software-1280x720.jpg)
+
+[my github profile](https://github.com/baraaAlosaily) 
