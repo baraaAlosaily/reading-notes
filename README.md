@@ -1,6 +1,8 @@
 # reading-notes
 
-## Growth Mindset :innocent:
+## Growth Mindset 
+
+:innocent:
 
 #### The most people have porn same mind and in the same thinking , what what happend after 25 years from the date of the born? actually what the different is the mindset, some people have growth mindset and the rest of them have fixed mindset but what the diffent between each of them. soe features distinguish whom have the mind set like persist, no pain no gain , embraces and those features making from them leaders.
 
