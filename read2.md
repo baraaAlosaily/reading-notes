@@ -1,4 +1,4 @@
-# Git Intorduction :eyeglasses:
+# Git Intorduction
 
 All of software developers should learn all aspects about Git because it is the key to publish of works online so be ready to start learn more and more about Git
 
