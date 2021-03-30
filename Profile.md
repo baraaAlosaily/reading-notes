@@ -4,10 +4,11 @@ My name is Bara'a Al-Osaily i am 25 years old, I studied bachor's degree in HSE 
 
 ![Photo](https://avatars.githubusercontent.com/u/81553898?v=4)
 
-###Reading assignments (102 )
+### Reading assignments (102 )
 
 name|title
 ----|------
+Home Page|[link](https://baraaalosaily.github.io/reading-notes/Profile)
 read0|[MindSet](README.md)
 read1|[learning markdown](https://baraaalosaily.github.io/reading-notes/read1)
 read2|[Git introduction](https://baraaalosaily.github.io/reading-notes/read2)

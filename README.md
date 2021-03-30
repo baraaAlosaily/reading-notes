@@ -45,9 +45,4 @@ Don't foget "Sucess of your team sucess of you"                                 
 
 [my github profile](https://github.com/baraaAlosaily) 
 
-name|title
-----|-----
-read1|[learning markdown](https://baraaalosaily.github.io/reading-notes/read1)
-read2|[Git introduction](https://baraaalosaily.github.io/reading-notes/read2)
 
-[Profile](Profile.md)
