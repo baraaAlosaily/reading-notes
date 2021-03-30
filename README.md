@@ -16,21 +16,18 @@
 
 ## How to keep yourself in a growth mindset
 
-|1  | Challenges                                                                                                   |
-|---|--------------------------------------------------------------------------------------------------------------|
-|   |you should every time be challenging and you have to persist to achive your goals what ever the recources you  have                                                                                                               |
+***1. Challenges***
+you should every time be challenging and you have to persist to achieve your goals what ever the recources you have 
+
+***2. Effort***
+Exert all of efforts to achieve your goals and distribute your efforts to keep maint activite
+
+***3. Success of others***
+Don't foget "Sucess of your team sucess of you"                                                               |
+*For more info click the link here*
+[How you can benefit from a growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
 
-|2 | Effort                                                                                                        |
-|---|--------------------------------------------------------------------------------------------------------------|
-|   |Exert all of efforts to achieve your goals and distribute your efforts to keep maint activite                 |
-
-
-|3  |Success of others                                                                                             |
-|---|--------------------------------------------------------------------------------------------------------------|
-|   |Don't foget "Sucess of your team sucess of you"                                                               |
-For more info click the link here
-[link](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 **The features was used:**
 
 1. list
@@ -38,8 +35,11 @@ For more info click the link here
 3. Using emoji
 4. Headings
 5. Styling text
+   1. bold
+   2. italic
 6. link
 7. photo
+
 
 ![mind](https://www.sodapdf.com/blog/wp-content/uploads/2019/10/mind-mapping-software-1280x720.jpg)
 
