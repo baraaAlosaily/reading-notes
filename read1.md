@@ -45,17 +45,17 @@ but befor that you should to know what is the markdown
 + Comments in Issues and Pull Requests
 + Files with the .md or .markdown extension
 
-**Here some examples**
+## Here some examples
 
-######1.Text 
+### 1.Text 
 
 ``
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 ``
-**Out put on the repo**
+Output 
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
-######1.Syntax *Heading*
+### 2.Syntax *Heading*
 
 ```
 # This is an <h1> tag
@@ -67,9 +67,9 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
 ## This is an <h2> tag
 ###### This is an <h6> tag
 
-**Example of GitHub flavor Markdown**
+## Example of GitHub flavor Markdown
 
-###### Syntax highlighting
+### Syntax highlighting
 Here’s an example of how you can use syntax highlighting with GitHub Flavored Markdown
 
 ```javascript
@@ -79,7 +79,7 @@ function fancyAlert(arg) {
   }
 }
 ```
-###### Tasklist
+### Tasklist
 
 ```
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
@@ -96,7 +96,7 @@ Output
 - [ ] this is an incomplete item
 If you include a task list in the first comment of an Issue, you will get a handy progress indicator in your issue list. It also works in Pull Requests!
 
-###### Tables
+### Tables
 You can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe |:
 ```
 First Header | Second Header
@@ -110,5 +110,5 @@ First Header | Second Header
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
-#### Emoji
+### Emoji
 you can add emoji by using special code from [Emoji Cheat Sheet] (https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README)
