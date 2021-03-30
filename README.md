@@ -44,3 +44,7 @@ Don't foget "Sucess of your team sucess of you"                                 
 ![mind](https://www.sodapdf.com/blog/wp-content/uploads/2019/10/mind-mapping-software-1280x720.jpg)
 
 [my github profile](https://github.com/baraaAlosaily) 
+
+name|title
+----|-----
+read1|[learning markdown](https://baraaalosaily.github.io/reading-notes/read1)
