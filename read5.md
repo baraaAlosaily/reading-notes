@@ -142,20 +142,20 @@ while (condition) {
 
 ***Example***
 
+
 ```
 <!DOCTYPE html>
 <html>
 <body>
 
-<h2>JavaScript While Loop</h2>
-
 <p id="demo"></p>
 
 <script>
-var text = "";
+var cars = ["BMW", "Volvo", "Saab", "Ford"];
 var i = 0;
-while (i < 10) {
-  text += "<br>The number is " + i;
+var text = "";
+while (cars[i]) {
+  text += cars[i] + "<br>";
   i++;
 }
 document.getElementById("demo").innerHTML = text;
