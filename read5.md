@@ -142,6 +142,7 @@ while (condition) {
 
 ***Example***
 
+```
 <!DOCTYPE html>
 <html>
 <body>
@@ -164,7 +165,7 @@ document.getElementById("demo").innerHTML = text;
 </html>
 ```
 
-Summary
+### Summary
 
 + Conditional statements allow your code to make decisions about what to do next.
 + Comparison operators (===, ! ==, ==, ! =, <, >, <=, =>)are used to compare two operands.
