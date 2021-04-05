@@ -20,7 +20,10 @@ CSS Syntax or CSS Code is written in style tag or external css file. CSS Syntax 
 
 How to link CSS with HTML?
 CSS can be added into HTML in 3 ways:
-+ Inline.
+
++ Inline
+
+
 ```
 <!DOCTYPE html>
 <html>
@@ -33,7 +36,8 @@ CSS can be added into HTML in 3 ways:
 </html>
 ```
 
-+ Internal. 
++ Internal
+
 
 ```
 <!DOCTYPE html>
@@ -61,6 +65,7 @@ h1 {
 
 + External.
 
+
 ```
 <!DOCTYPE html>
 <html>
@@ -78,6 +83,7 @@ h1 {
 
 Inline: The Inline style is specific to the tag itself. The inline style uses the HTML “style” attribute to style a specific tag. This is not recommended, as every CSS change has to be made in every tag that has the inline style applied to it. The Inline style is good for one an individual CSS change that you do not use repeatedly through the site.
 
+
 ```
 <body>
 <p style="color:red;margin-left:30px;">This is paragraph</p>
@@ -91,13 +97,19 @@ p {color:green;}
 </style>  
 </head>
 ```
-External:The External Stylesheet is a .css file that you link your website to. This makes it so that what ever you change in the .css sheet, will effect every page in your website. This prevents you from having to make many code changes in each page. This is for “global” site changes.
+
+
++ External:The External Stylesheet is a .css file that you link your website to. This makes it so that what ever you change in the .css sheet, will effect every page in your website. This prevents you from having to make many code changes in each page. This is for “global” site changes.
+
+
 ```
 <head>
 <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 ```
-In the below example you can find out how useful really the css is!
+
+
++ In the below example you can find out how useful really the css is!
 
 
 ***Exampes***
@@ -142,10 +154,12 @@ div {
 </body>
 </html>
 ```
+
 ![img2](./img/img2.png)
 
 Using inline-block to Create Navigation Links
 One common use for display: inline-block is to display list items horizontally instead of vertically. The following example creates horizontal navigation links:
+
 
 ```
 <!DOCTYPE html>
@@ -183,6 +197,7 @@ One common use for display: inline-block is to display list items horizontally i
 </body>
 </html>
 ```
+
 ![img3](./img/img3.png)
 
 
