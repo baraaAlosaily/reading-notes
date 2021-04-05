@@ -1,4 +1,4 @@
-# CSS Intro 
+# CSS Intro
 
 ![css](https://www.bitdegree.org/learn/storage/media/images/css-tutorial-img1-01.o.png)
 
@@ -22,64 +22,8 @@ How to link CSS with HTML?
 CSS can be added into HTML in 3 ways:
 
 + Inline
-
-
-```
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1 style="color:blue;text-align:center;">This is a heading</h1>
-<p style="color:red;">This is a paragraph.</p>
-
-</body>
-</html>
-```
-
 + Internal
-
-
-```
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
-  background-color: linen;
-}
-
-h1 {
-  color: maroon;
-  margin-left: 40px;
-}
-</style>
-</head>
-<body>
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
-```
-
 + External.
-
-
-```
-<!DOCTYPE html>
-<html>
-<head>
-<link rel="stylesheet" href="mystyle.css">
-</head>
-<body>
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
-```
 
 Inline: The Inline style is specific to the tag itself. The inline style uses the HTML “style” attribute to style a specific tag. This is not recommended, as every CSS change has to be made in every tag that has the inline style applied to it. The Inline style is good for one an individual CSS change that you do not use repeatedly through the site.
 
