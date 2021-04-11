@@ -209,7 +209,7 @@ Example:
 
 ![ifram](./img/ifram.png)
 
-There are some characters that are used in and reserved by HTML code. (For example, the left and right angled brackets.)
+There are some characters that are used in and reserved by HTML code.
 
 ![esc](./img/esc.png)
 
