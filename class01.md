@@ -232,13 +232,13 @@ HTML has several semantic elements that define the different parts of a web page
 
 ![p](https://www.w3schools.com/html/img_sem_elements.gif)
 
-### Javascript
+Javascript
 
-#### How JavaScript Makes Web pages More Interactive
+How JavaScript Makes Web pages More Interactive
 
 ![js](https://mk0setscholarsn9sko6.kinstacdn.com/wp-content/uploads/2020/07/javascript.jpg)
 
-***Javascript allow you to make web pae more interactive by accessing and modifying the content and markup used in the web pages while it is being viewed in the browser*** 
+Javascript allow you to make web pae more interactive by accessing and modifying the content and markup used in the web pages while it is being viewed in the browser
 
 **1. ACCESS CONTENT**
      You can use JavaScript to select any element, attribute, or text from an
