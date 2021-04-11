@@ -213,7 +213,6 @@ There are some characters that are used in and reserved by HTML code. (For examp
 Therefore, if you want these characters to appear on your page you need to use what are termed "escape" characters (also known as escape codes or entity references). For example, to write a left angled bracket, you can use either `&lt;` or `&#60;`. For an ampersand, you can use either `&amp;` or `&#38;`. There are also special codes that can be used to show
 symbols such as copyright and trademark, currency symbols, mathematical characters, and some punctuation marks. For example, if you want to include a copyright symbol on a web page you can use either `&copy;` or `&#169;`. When using escape characters, it is important to check the page in your browser to ensure that the correct symbol shows up. This is because some fonts do not support all of these characters and you might therefore need to specify a different font for these characters in your CSS code.
 
-
 About html5 layot is so easy to understand.
 Websites often display content in multiple columns (like a magazine or a newspaper) 
 
@@ -230,9 +229,9 @@ HTML has several semantic elements that define the different parts of a web page
 
 ![p](https://www.w3schools.com/html/img_sem_elements.gif)
 
-### JavaScript 
+### JavaScript
 
-#### How JavaScript Makes Web pages More Interactive 
+#### How JavaScript Makes Web pages More Interactive
 ![js](https://mk0setscholarsn9sko6.kinstacdn.com/wp-content/uploads/2020/07/javascript.jpg)
 
 ***Javascript allow you to make web pae more interactive by accessing and modifying the content and markup used in the web pages while it is being viewed in the browser*** 
@@ -277,32 +276,6 @@ You can specify that a script should run when a specific event has occurred. For
 
 JavaScript syntax is the set of rules, how JavaScript programs are constructed:
 
-```bash
-<!DOCTYPE html>
-<html>
-<body>
-
-<h2>JavaScript Statements</h2>
-
-<p>A <b>JavaScript program</b> is a list of <b>statements</b> to be executed by a computer.</p>
-
-<p id="demo"></p>
-
-<script>
-var x, y, z;  // Statement 1
-x = 5;        // Statement 2
-y = 6;        // Statement 3
-z = x + y;    // Statement 4
-
-document.getElementById("demo").innerHTML =
-"The value of z is " + z + ".";  
-</script>
-
-</body>
-</html>
-```
-
-
 ***2. JavaScript Operators***
 
 Assign values to variables and add them together:
@@ -323,33 +296,6 @@ var x = 5;
 var y = 2;
 var z = x + y;
 document.getElementById("demo").innerHTML = z;
-</script>
-
-</body>
-</html>
-```
-
-***3. Function***
-
-A JavaScript function is a block of code designed to perform a particular task.
-A JavaScript function is executed when "something" invokes it (calls it).
-
-```bash
-<!DOCTYPE html>
-<html>
-<body>
-
-<h2>JavaScript Functions</h2>
-
-<p>This example calls a function which performs a calculation, and returns the result:</p>
-
-<p id="demo"></p>
-
-<script>
-function myFunction(p1, p2) {
-  return p1 * p2;
-}
-document.getElementById("demo").innerHTML = myFunction(4, 3);
 </script>
 
 </body>
@@ -406,7 +352,7 @@ Assignment operators assign values to JavaScript variables.
 
 Display a prompt box which ask the user for her/his name, and output a message:
 
-```bash
+```
 <!DOCTYPE html>
 <html>
 <body>
