@@ -233,6 +233,7 @@ HTML has several semantic elements that define the different parts of a web page
 ![p](https://www.w3schools.com/html/img_sem_elements.gif)
 
 ```
+<JavaScript>
 ```
 
 ### JavaScript Intro
