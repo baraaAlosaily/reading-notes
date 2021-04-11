@@ -1,6 +1,6 @@
-# Reading-notes
+# Reading-notes :notebook:
 
-:notebook_with_decorative_cover:
+
 
 ![photo](https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/what-is-coding.png)
 
