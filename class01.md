@@ -232,7 +232,7 @@ HTML has several semantic elements that define the different parts of a web page
 
 ![p](https://www.w3schools.com/html/img_sem_elements.gif)
 
-### JavaScript Intro
+### Javascript
 
 #### How JavaScript Makes Web pages More Interactive
 
