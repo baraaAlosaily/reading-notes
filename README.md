@@ -23,5 +23,5 @@ Class 07|[css intro](read6.md)
 Name|Title
 ---|---
 class 01|[introductory HTML & JS](class01.md)
-class 02|
+class 02|[HTML Text, CSS Introduction, and Basic JavaScript Instructions](Class02)
 class 03|
