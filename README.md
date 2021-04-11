@@ -19,3 +19,4 @@ Class 07|[css intro](read6.md)
 Name|Title
 ---|---
 class 01|[introductory HTML & JS](class01.md)
+class 02|
