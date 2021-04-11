@@ -187,11 +187,13 @@ also when you need to mention to id you have to write #
 An HTML iframe is used to display a web page within a web page.
 
 Syntax
+
 ```
 <iframe src="url" title="description">
 ```
 
 Example:
+
 ```<!DOCTYPE html>
 <html>
 <body>
@@ -204,13 +206,14 @@ Example:
 </body>
 </html>
 ```
+
 ![ifram](./img/ifram.png)
 
 There are some characters that are used in and reserved by HTML code. (For example, the left and right angled brackets.)
 
 ![esc](./img/esc.png)
 
-Therefore, if you want these characters to appear on your page you need to use what are termed "escape" characters (also known as escape codes or entity references). For example, to write a left angled bracket, you can use either `&lt;` or `&#60;`. For an ampersand, you can use either `&amp;` or `&#38;`. There are also special codes that can be used to show
+Therefore, if you want these characters to appear on your page you need to use what are termed "escape" characters (also known as escape codes or entity references). For example, to write a left angled bracket, you can use either `&lt;`. For an ampersand, you can use either `&amp;` or `&#38;`. There are also special codes that can be used to show
 symbols such as copyright and trademark, currency symbols, mathematical characters, and some punctuation marks. For example, if you want to include a copyright symbol on a web page you can use either `&copy;` or `&#169;`. When using escape characters, it is important to check the page in your browser to ensure that the correct symbol shows up. This is because some fonts do not support all of these characters and you might therefore need to specify a different font for these characters in your CSS code.
 
 About html5 layot is so easy to understand.
@@ -229,33 +232,35 @@ HTML has several semantic elements that define the different parts of a web page
 
 ![p](https://www.w3schools.com/html/img_sem_elements.gif)
 
+
 ### JavaScript
 
 #### How JavaScript Makes Web pages More Interactive
+
 ![js](https://mk0setscholarsn9sko6.kinstacdn.com/wp-content/uploads/2020/07/javascript.jpg)
 
 ***Javascript allow you to make web pae more interactive by accessing and modifying the content and markup used in the web pages while it is being viewed in the browser*** 
 
-**1. ACCESS CONTENT**
+**ACCESS CONTENT**
      You can use JavaScript to select any element, attribute, or text from an
 HTML page. For example:
 - Select the text inside all of the `<hl> `elements on a page
 - Select any elements that have a c 1 ass attribute with a value of note
 - Find out what was entered into a text input whose id attribute has a value of ema i 1
 
-**2. Modifying the content**
+**Modifying the content**
 You can use JavaScript to add elements, attributes, and text to the page, or remove them. For example:
-- Add a paragraph of text after the first `<hl>` element
-- Change the value of c 1 ass attributes to trigger new CSS rules for those elements
-- Change the size or position of an `<i mg> `element
+* Add a paragraph of text after the first `<hl>` element
+* Change the value of c 1 ass attributes to trigger new CSS rules for those elements
+* Change the size or position of an `<i mg> `element
 
-**3. PROGRAM RULES**
+**PROGRAM RULES**
 You can specify a set of steps for the browser to follow (like a recipe), which allows it to access or change the content of a page. For example:
-- A gallery script could check which image a user clicked on and display a larger version of that image.
-- A mortgage calculator could collect values from a form, perform a ca lculation, and display repayments.
-- An animation could check the dimensions of the browser window and move an image to the bottom of the viewable area (also known as the viewport).
+* A gallery script could check which image a user clicked on and display a larger version of that image.
+* A mortgage calculator could collect values from a form, perform a ca lculation, and display repayments.
+* An animation could check the dimensions of the browser window and move an image to the bottom of the viewable area (also known as the viewport).
 
-**4. React ro event**
+**React ro event**
 
 You can specify that a script should run when a specific event has occurred. For example, it could be run when:
 - A button is pressed
@@ -272,11 +277,11 @@ You can specify that a script should run when a specific event has occurred. For
 
 ### Same main tools of the java script
 
-***1. JavaScript Syntaxis***
+***JavaScript Syntaxis***
 
 JavaScript syntax is the set of rules, how JavaScript programs are constructed:
 
-***2. JavaScript Operators***
+***JavaScript Operators***
 
 Assign values to variables and add them together:
 
@@ -302,7 +307,7 @@ document.getElementById("demo").innerHTML = z;
 </html>
 ```
 
-***4. Conditional Statements***
+***Conditional Statements***
 
 Very often when you write code, you want to perform different actions for different decisions.
 You can use conditional statements in your code to do this.
@@ -343,12 +348,12 @@ function myFunction() {
 </html>
 ```
 
-***5. Assignment Operators***
+***Assignment Operators***
 
 Assignment operators assign values to JavaScript variables.
 ![l](https://www.devopsschool.com/blog/wp-content/uploads/2020/08/assignment-operator-in-python.png)
 
-***6. Window prompt() Method***
+***Window prompt() Method***
 
 Display a prompt box which ask the user for her/his name, and output a message:
 
