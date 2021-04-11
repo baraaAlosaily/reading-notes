@@ -275,8 +275,9 @@ You can specify that a script should run when a specific event has occurred. For
 
 ***1. JavaScript Syntaxis***
 
-   JavaScript syntax is the set of rules, how JavaScript programs are constructed:
-```
+JavaScript syntax is the set of rules, how JavaScript programs are constructed:
+
+```bash
 <!DOCTYPE html>
 <html>
 <body>
@@ -301,11 +302,12 @@ document.getElementById("demo").innerHTML =
 </html>
 ```
 
+
 ***2. JavaScript Operators***
 
 Assign values to variables and add them together:
 
-```
+```bash
 <!DOCTYPE html>
 <html>
 <body>
@@ -332,7 +334,8 @@ document.getElementById("demo").innerHTML = z;
 A JavaScript function is a block of code designed to perform a particular task.
 A JavaScript function is executed when "something" invokes it (calls it).
 
-```<!DOCTYPE html>
+```bash
+<!DOCTYPE html>
 <html>
 <body>
 
@@ -364,7 +367,8 @@ In JavaScript we have the following conditional statements:
 - Use else if to specify a new condition to test, if the first condition is false
 - Use switch to specify many alternative blocks of code to be executed
 
-```<!DOCTYPE html>
+```bash
+<!DOCTYPE html>
 <html>
 <body>
 
@@ -402,7 +406,7 @@ Assignment operators assign values to JavaScript variables.
 
 Display a prompt box which ask the user for her/his name, and output a message:
 
-```
+```bash
 <!DOCTYPE html>
 <html>
 <body>
