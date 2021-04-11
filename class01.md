@@ -231,3 +231,7 @@ HTML has several semantic elements that define the different parts of a web page
 `<summary>` - Defines a heading for the `<details>` element
 
 ![p](https://www.w3schools.com/html/img_sem_elements.gif)
+
+
+`
+

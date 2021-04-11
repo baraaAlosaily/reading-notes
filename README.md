@@ -1,50 +1,35 @@
-# reading-notes
+# Reading-notes 
 
-## Growth Mindset 
+My name is Bara’a Al-Osaily i am 25 years old, I studied bachor’s degree in HSE engineering, i worked for three years as HSE engineer, then i decided to left my work to join ASAC scholarship to developed my self in software developing to change my career to better one.
 
-:innocent:
+## Reading notes (102)
 
-#### The most people have porn same mind and in the same thinking , what what happend after 25 years from the date of the born? actually what the different is the mindset, some people have growth mindset and the rest of them have fixed mindset but what the diffent between each of them. soe features distinguish whom have the mind set like persist, no pain no gain , embraces and those features making from them leaders.
+Name|Title
+---|---
+Class 01|[Mindset](midsit.md)
+Class 02|[Learning markdown](read1.md)
+Class 03|[Git introduction](read2.md)
+Class 04|[Wire structure,HTML&CSS](read3.md)
+Class 05|[JavaScript intro](read4.md)
+Class 06|[Opertaions and loop](read5.md)
+Class 07|[css intro](read6.md)
 
-## How maintain a gowth mindset 
-### Here will list all ways to maintain mind set and below we will remind you how to keep growth mind for by three ways.
-
-1. challenges
-2. Obstacles
-3. efforts
-4. Success of others 
-
-
-
-## How to keep yourself in a growth mindset
-
-***1. Challenges***
-you should every time be challenging and you have to persist to achieve your goals what ever the recources you have 
-
-***2. Effort***
-Exert all of efforts to achieve your goals and distribute your efforts to keep maint activite
-
-***3. Success of others***
-Don't foget "Sucess of your team sucess of you"                                                               |
-*For more info click the link here*
-[How you can benefit from a growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
-
-
-**The features was used:**
-
-1. list
-2. table
-3. Using emoji
-4. Headings
-5. Styling text
-   1. bold
-   2. italic
-6. link
-7. photo
-
-
-![mind](https://www.sodapdf.com/blog/wp-content/uploads/2019/10/mind-mapping-software-1280x720.jpg)
-
-[my github profile](https://github.com/baraaAlosaily) 
-
+## Reading notes (201)
+Name|Title
+---|---
+class 01|[introductory HTML & JS](clas01.md)
+class 02|---
+class 03|---
+class 04|---
+class 05|---
+class 06|---
+class 07|---
+class 08|---
+class 09|---
+class 10|---
+class 11|---
+class 12|---
+class 13|---
+class 14|---
+class 15|---
 
