@@ -8,20 +8,20 @@ My name is Bara’a Al-Osaily i am 25 years old, I studied bachor’s degree in 
 
 ## Reading notes (102)
 
-Name|Title
----|---
-Class 01|[Mindset](midsit.md)
-Class 02|[Learning markdown](read1.md)
-Class 03|[Git introduction](read2.md)
-Class 04|[Wire structure,HTML&CSS](read3.md)
-Class 05|[JavaScript intro](read4.md)
-Class 06|[Opertaions and loop](read5.md)
-Class 07|[css intro](read6.md)
+| Name     | Title                               |
+| -------- | ----------------------------------- |
+| Class 01 | [Mindset](midsit.md)                |
+| Class 02 | [Learning markdown](read1.md)       |
+| Class 03 | [Git introduction](read2.md)        |
+| Class 04 | [Wire structure,HTML&CSS](read3.md) |
+| Class 05 | [JavaScript intro](read4.md)        |
+| Class 06 | [Opertaions and loop](read5.md)     |
+| Class 07 | [css intro](read6.md)               |
 
 ## Reading notes (201)
 
-Name|Title
----|---
-class 01|[introductory HTML & JS](class01.md)
-class 02|[HTML Text, CSS Introduction, and Basic JavaScript Instructions](class02.md)
-class 03|
+| Name     | Title                                                                            |
+| -------- | -------------------------------------------------------------------------------- |
+| class 01 | [introductory HTML & JS](class01.md)                                             |
+| class 02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](class02.md)     |
+| class 03 | [Readings : HTML Lists, Control Flow with JS, and the CSS Box Model](class03.md) |
