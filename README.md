@@ -26,3 +26,4 @@ My name is Bara’a Al-Osaily i am 25 years old, I studied bachor’s degree in 
 | class 02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](class02.md)     |
 | class 03 | [Readings : HTML Lists, Control Flow with JS, and the CSS Box Model](class03.md) |
 | class 04 | [HTML Links, JS Functions, and Intro to CSS Layout](class04.md)                  |
+| Class 05 | [HTML Images; CSS Color & Text](class05.md)                                      |
