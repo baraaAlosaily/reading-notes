@@ -30,3 +30,4 @@ My name is Bara’a Al-Osaily i am 25 years old, I studied bachor’s degree in 
 | class 06 | [Problem Domain, Objects, and the DOM](class06.md)                               |
 | class07  | [HTML Tables; JS Constructor Functions](class08.md)                              |
 | class08  | [CSS Layout](class07.md)                                                         |
+| class09  | [Forms and JS Events](class09.md)                                                |
