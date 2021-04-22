@@ -8,7 +8,7 @@ The best known form on the web is probably the search box that sits right in the
 **Form Controls**
 ![why](./img/why.png)
 
-**hoW Forms Work**
+**HOW Forms Work**
 
 ![how](./img/how.png)
 
