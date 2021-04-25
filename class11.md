@@ -1,163 +1,206 @@
 # Audio, Video, Images
 
-The HTML `<audio>` element is used to play an audio file on a web page.
+![imag](https://www.victorkingsley.com/wp-content/uploads/edd/2020/12/css.jpg)
 
-Example
+There is many features can be used to design your webpage such as:
 
-```
-<!DOCTYPE html>
-<html>
-<body>
+1. Rounded image
+   Use the `border-radius` property to create rounded images:
 
-<audio controls>
-  <source src="horse.ogg" type="audio/ogg">
-  <source src="horse.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-
-</body>
-</html>
-```
-
-It will be like this
-![audio1](./img./audio1.png)
-
-### HTML Audio - How It Works
-
-The `controls` attribute adds audio controls, like play, pause, and volume.
-
-The `<source>` element allows you to specify alternative audio files which the browser may choose from. The browser will use the first recognized format.
-
-The text between the `<audio>` and `</audio>` tags will only be displayed in browsers that do not support the `<audio>` element.
-
-HTML `<audio`> Autoplay
-To start an audio file automatically, use the autoplay attribute:
-
-```
-<audio controls autoplay>
-  <source src="horse.ogg" type="audio/ogg">
-  <source src="horse.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-
-</body>
-</html>
-```
-
-Add muted after autoplay to let your audio file start playing automatically (but muted):
+Example:
 
 ```
 <!DOCTYPE html>
 <html>
+<head>
+<style>
+img {
+  border-radius: 8px;
+}
+</style>
+</head>
 <body>
 
-<audio controls autoplay muted>
-  <source src="horse.ogg" type="audio/ogg">
-  <source src="horse.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
+<h2>Rounded Images</h2>
+<p>Use the border-radius property to create rounded images:</p>
+
+<img src="paris.jpg" alt="Paris" width="300" height="300">
 
 </body>
 </html>
 ```
 
-### HTML Audio - Methods, Properties, and Events
+![round](./img/round.png)
 
-The HTML DOM defines methods, properties, and events for the <audio> element.
+2. Thumbnail images
 
-This allows you to load, play, and pause audios, as well as set duration and volume.
-
-There are also DOM events that can notify you when an audio begins to play, is paused, etc.
-
-| Tag        | Description                                                                          |
-| ---------- | ------------------------------------------------------------------------------------ |
-| `<audio>`  | Defines sound content                                                                |
-| `<source>` | Defines multiple media resources for media elements, such as `<video>` and `<audio>` |
-
-HTML Video
-
-The HTML `<video>` element is used to show a video on a web page.
-
-Example
+Use the `border` property to create thumbnail images.
 
 ```
-<!DOCTYPE html>
-<html>
-<body>
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
 
-<video width="400" controls>
-  <source src="mov_bbb.mp4" type="video/mp4">
-  <source src="mov_bbb.ogg" type="video/ogg">
-  Your browser does not support HTML video.
-</video>
-
-<p>
-Video courtesy of
-<a href="https://www.bigbuckbunny.org/" target="_blank">Big Buck Bunny</a>.
-</p>
-
-</body>
-</html>
+<img src="paris.jpg" alt="Paris">
 ```
 
-It will be like this
+3. responsive images
 
-![video](./img/video.png)
+Responsive images will automatically adjust to fit the size of the screen.
 
-### How it Works
-
-The controls attribute adds video controls, like play, pause, and volume.
-
-It is a good idea to always include width and height attributes. If height and width are not set, the page might flicker while the video loads.
-
-The `<source>` element allows you to specify alternative video files which the browser may choose from. The browser will use the first recognized format.
-
-The text between the `<video>` and `</video>` tags will only be displayed in browsers that do not support the `<video>` element.
-
-### HTML Video - Methods, Properties, and Events
-
-The HTML DOM defines methods, properties, and events for the `<video>` element.
-
-This allows you to load, play, and pause videos, as well as setting duration and volume.
-
-There are also DOM events that can notify you when a video begins to play, is paused, etc.
-
-### HTML Video - Media Types
-
-| File Format | Media Type |
-| ----------- | ---------- |
-| `MP4`       | video/mp4  |
-| `WebM`      | video/webm |
-| `Ogg`       | video/ogg  |
-
-### HTML `<img>` Tag
-
-Example
+Resize the browser window to see the effect
 
 ```
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1>The img element</h1>
-
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-
-</body>
-</html>
+img {
+  max-width: 100%;
+  height: auto;
+}
 ```
 
-Definition and Usage
+4. center an imag
 
-The `<img>` tag is used to embed an image in an HTML page.
+To center an image, set left and right margin to auto and make it into a `block` element:
 
-Images are not technically inserted into a web page; images are linked to web pages. The `<img>` tag creates a holding space for the referenced image.
+```
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+```
 
-The `<img>` tag has two required attributes:
+![cen](./img/center.png)
 
-src - Specifies the path to the image
-alt - Specifies an alternate text for the image, if the image for some reason cannot be displayed
-Note: Also, always specify the width and height of an image. If width and height are not specified, the page might flicker while the image loads.
+5. Polaroid images/card
+
+Exmple:
+
+```
+div.polaroid {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+img {width: 100%}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+```
+
+![pol](./img/pol.png)
+
+6. Transparent Image
+
+The opacity property can take a value from 0.0 - 1.0. The lower value, the more transparent:
+
+```
+img {
+  opacity: 0.5;
+}
+```
+
+![trn](./img/tra.png)
+
+7. Image Text
+   How to position text in an image:
+
+```
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 18px;
+```
+
+8. Image Filters
+   The CSS filter property adds visual effects (like blur and saturation) to an element.
+
+Example:
+
+```
+img {
+  filter: grayscale(100%);
+}
+```
+
+9. Image Hover Overlay
+
+```
+.container:hover .overlay {
+  opacity: 1;
+}
+```
+
+10. Flip an Image
+
+```
+img:hover {
+  transform: scaleX(-1);
+}
+```
+
+11. Responsive Image Gallery
+
+```
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px){
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px){
+  .responsive {
+    width: 100%;
+  }
+}
+```
+
+12. Image Modal (Advanced)
+
+This is an example to demonstrate how CSS and JavaScript can work together.
+
+First, use CSS to create a modal window (dialog box), and hide it by default.
+
+Then, use a JavaScript to show the modal window and to display the image inside the modal, when a user clicks on the image:
+
+Example:
+
+```
+// Get the modal
+var modal = document.getElementById('myModal');
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = document.getElementById('myImg');
+var modalImg = document.getElementById("img01");
+var captionText = document.getElementById("caption");
+img.onclick = function(){
+  modal.style.display = "block";
+  modalImg.src = this.src;
+  captionText.innerHTML = this.alt;
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+```
 
 ### Summary
 
