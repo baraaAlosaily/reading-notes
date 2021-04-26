@@ -33,3 +33,4 @@ My name is Bara’a Al-Osaily i am 25 years old, I studied bachor’s degree in 
 | class09  | [Forms and JS Events](class09.md)                                                |
 | class10  | [Error and debagging](class10.md)                                                |
 | class11  | [ Audio, Video, Images](class11.md)                                              |
+| class12  | [Chart.js, Canvas](class12.md)                                                   |
