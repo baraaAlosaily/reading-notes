@@ -35,3 +35,5 @@ My name is Bara’a Al-Osaily i am 25 years old, I studied bachor’s degree in 
 | class11  | [ Audio, Video, Images](class11.md)                                              |
 | class12  | [Chart.js, Canvas](class12.md)                                                   |
 | class13  | [Local Storage](class13.md)                                                      |
+| class14a | [CSS Transforms, Transitions, and Animations](class14a.md)                       |
+| class14b | [What Google Learned About Teams](class14b.md)                                   |

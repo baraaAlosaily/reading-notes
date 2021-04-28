@@ -111,16 +111,7 @@ There are four transition related properties in total, including transition-prop
 
 In the example below the box will change its background color over the course of 1 second in a linear fashion.
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
+```
 .box {
 background: #2db34a;
 transition-property: background;
@@ -130,6 +121,7 @@ transition-timing-function: linear;
 .box:hover {
 background: #ff7b29;
 }
+```
 
 Transition Demo
 
@@ -138,25 +130,7 @@ The code above, as with the rest of the code samples in this lesson, are not ven
 
 For reference, the prefixed version of the code above would look like the following.
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
+```
 .box {
 background: #2db34a;
 -webkit-transition-property: background;
@@ -175,6 +149,7 @@ transition-timing-function: linear;
 .box:hover {
 background: #ff7b29;
 }
+```
 
 Transitional Property
 The transition-property property determines exactly what properties will be altered in conjunction with the other transitional properties. By default, all of the properties within an element’s different states will be altered upon change. However, only the properties identified within the transition-property value will be affected by any transitions.
@@ -183,18 +158,7 @@ In the example above, the background property is identified in the transition-pr
 
 If multiple properties need to be transitioned they may be comma separated within the transition-property value. Additionally, the keyword value all may be used to transition all properties of an element.
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
+```
 .box {
 background: #2db34a;
 border-radius: 6px
@@ -206,6 +170,7 @@ transition-timing-function: linear;
 background: #ff7b29;
 border-radius: 50%;
 }
+```
 
 Transition Property Demo
 
