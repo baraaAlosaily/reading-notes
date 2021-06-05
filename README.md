@@ -6,7 +6,7 @@
 
 My name is Bara’a Al-Osaily i am 25 years old, I studied bachor’s degree in HSE engineering, i worked for three years as HSE engineer, then i decided to left my work to join ASAC scholarship to developed my self in software developing to change my career to better one.
 
-## Reading notes (102)
+## Code 102 - Intro to Software Development
 
 | Name     | Title                               |
 | -------- | ----------------------------------- |
@@ -18,7 +18,7 @@ My name is Bara’a Al-Osaily i am 25 years old, I studied bachor’s degree in 
 | Class 06 | [Opertaions and loop](read5.md)     |
 | Class 07 | [css intro](read6.md)               |
 
-## Reading notes (201)
+## Code 201 - Foundations of Software Development
 
 | Name     | Title                                                                            |
 | -------- | -------------------------------------------------------------------------------- |
@@ -37,3 +37,21 @@ My name is Bara’a Al-Osaily i am 25 years old, I studied bachor’s degree in 
 | class13  | [Local Storage](class13.md)                                                      |
 | class14a | [CSS Transforms, Transitions, and Animations](class14a.md)                       |
 | class14b | [What Google Learned About Teams](class14b.md)                                   |
+
+## Code 301 - Intermediate Software Development
+
+| Name     | Title |
+| -------- | ----- |
+| class 01 | ---   |
+| class 02 | ---   |
+| class 03 | ---   |
+| class 04 | ---   |
+| Class 05 | ---   |
+| class 06 | ---   |
+| class07  | ---   |
+| class08  | ---   |
+| class09  | ---   |
+| class10  | ---   |
+| class11  | ---   |
+| class12  | --    |
+| class13  | ---   |
