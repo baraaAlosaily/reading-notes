@@ -40,18 +40,18 @@ My name is Bara’a Al-Osaily i am 25 years old, I studied bachor’s degree in 
 
 ## Code 301 - Intermediate Software Development
 
-| Name | Title |
-| -------- | [Introduction to React and Components](readone.md) |
-| class 01 | --- |
-| class 02 | --- |
-| class 03 | --- |
-| class 04 | --- |
-| Class 05 | --- |
-| class 06 | --- |
-| class07 | --- |
-| class08 | --- |
-| class09 | --- |
-| class10 | --- |
-| class11 | --- |
-| class12 | -- |
-| class13 | --- |
+| Name     | Title                                              |
+| -------- | -------------------------------------------------- |
+| class 01 | [Introduction to React and Components](readone.md) |
+| class 02 | [React: Component Lifecycle Events](readtwo.md)    |
+| class 03 | ---                                                |
+| class 04 | ---                                                |
+| Class 05 | ---                                                |
+| class 06 | ---                                                |
+| class07  | ---                                                |
+| class08  | ---                                                |
+| class09  | ---                                                |
+| class10  | ---                                                |
+| class11  | ---                                                |
+| class12  | --                                                 |
+| class13  | ---                                                |
