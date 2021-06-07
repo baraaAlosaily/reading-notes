@@ -1,66 +1,42 @@
 ## React: Component Lifecycle Events
 
-![new](https://miro.medium.com/max/2800/0*pqn5ljaOw4kWrUdF)
+1. Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
+   ![new](https://miro.medium.com/max/2800/0*0saPKFiTUk6W3FYp)
 
-## Component lifeCycle
+Here we use componentDidMount() to connect to the YouTube API and get videos when the components is rendered. (so the render first)
 
-1.React lets you define components as classes or functions. The methods that you are able to use on these are called lifecycle events. These methods can be called during the lifecycle of a component, and they allow you to update the UI and application states.
+2. What is the very first thing to happen in the lifecycle of React?
+   Here we use componentDidMount() to connect to the YouTube API and get videos when the components is rendered.
 
-## Mounting, Updating, and Unmounting are the three phases of the component lifecycle.
+the constructor is the first thing will happen
 
-1. Mounting: When an instance of a component is being created and inserted into the DOM it occurs during the mounting phase. Constructor, static getDerivedStateFromProps, render, componentDidMount, and UNSAFE_componentWillMount all occur in this order during mounting.
-2. Updating: Anytime a component is updated or state changes then it is rerendered. These lifecycle events happen during updating in this order.
-
-```
-static getDerivedStateFromProps, shouldComponentUpdate, render,
-getSnapshotBeforeUpdate, componentDidUpdate, UNSAFE_componentWillUpdate, UNSAFE_componentWillReceiveProps
-```
-
-3. Unmounting The final phase of the lifecycle if called when a component is being removed from the DOM. componentWillUnmount is the only lifecycle event during this phase.
-   **constructor()**
-   The constructor for a React component is called before it is mounted.If the component is a subclass you should call super(props), or the props will be undefined. constructors can be used to assign state using this.state or to bind event handle methods to an instance. Let’s take a look at some example code.
+3. Put the following things in the order that they happen: componentDidMount, render, constructor, componentWillUnmount, React Updates
+   What does componentDidMount do?
 
 ```
-class FishTableRow extends React.Component {
-constructor() {
-super(props); //gives us access to props
-//Don’t call this.setState() here
-this.state = { //intitialize local state
-showDescription: false
-}; }
+constructor
+render()
+componentDidMount()
+React Updates
+componentWillUnmount
+componentDidMount (Links to an external site.)
 ```
 
-**static getDerivedStateFromProps()**
-This method exists for rare cases where the state relies on changes in props over time.
-**render()**
-Render is the only required method in a class component. It will examine this.props and this.state when called. The render function should not modify the component state because it would cause a lot of bugs by changing the state every time it rerenders. I also should not directly interact with the browser. render will not be invoked if shouldComponentUpdate() returns false. Here is an example of using render.
+is executed after the first render only on the client side. This is where DOM or state updates should occur. This method is also used for integration with other JavaScript frameworks and any functions with delayed execution such as setTimeout or setInterval. We are using it to update the state so we can trigger the other lifecycle methods.
 
-```
-ReactDOM.render(
-<FishTable fishes= {fishData}/>,//set fishes document.getElementById(‘app’)
-);
-```
+## React & Props
 
-**componentDidMount()**
-This method is invoked immediately after a component is mounted. If you need to load anything using a network request or initialize the DOM, it should go here. This method is a good place to set up any subscriptions. If you do that, don’t forget to unsubscribe in componentWillUnmount().
-setState() can be called here, but it should be used sparingly, because it will cause a rerender, which can lead to perfomance issues.
-Here we use componentDidMount() to connect to the YouTube API and get videos when the components is rendered.
+What types of things can you pass in the props?
+we can passing integers, arrays, objects, string.. etc.
 
-```componentDidMount() {
-console.log(‘got videos’);
-this.getVideos(‘cats’);
-}
-getVideos(query) {
-var options = {
-key: this.props.YOUTUBE_API_KEY,
-query: query
-};
-```
+1. What is the big difference between props and state?
+   regarding to Props it’s like arguments in the function, when create component inside react and want to render it we can pass the props that we give, state is something inside the component
+2. When do we re-render our application?
+   we can change the state in the application.
+3. What are some examples of things that we could store in state?
+   we can store the following
+   integers, arrays, objects, string..
 
-UNSAFE Lifecycle Events
-UNSAFE_componentWillMount()
-UNSAFE_componentWillUpdate()
-UNSAFE_componentWillReceiveProps()
-These events have lead to a lot of bugs and unintended side effects, so in React 17 these will no longer be able to be used without the UNSAFE tag in front of them. Instead of componentWillMount use ComponentDidMount.
-Instead of componentWillReceiveProps use static getDerivedStateFromProps.
-Instead of componentWillUpdate us getSnapshotBeforeUpdate.
+## Things I want to know more about
+
+1.More about properties of props
