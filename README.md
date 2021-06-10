@@ -46,7 +46,7 @@ My name is Bara’a Al-Osaily i am 25 years old, I studied bachor’s degree in 
 | class 02 | [React: Component Lifecycle Events](readtwo.md)    |
 | class 03 | [Passing Functions as Props](raedthree.md)---      |
 | class 04 | [React and Forms](readfour.md)                     |
-| Class 05 | ---                                                |
+| Class 05 | [Thinking in React](readfive.md)---                |
 | class 06 | ---                                                |
 | class07  | ---                                                |
 | class08  | ---                                                |
