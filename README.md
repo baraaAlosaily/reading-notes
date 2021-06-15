@@ -49,7 +49,7 @@ My name is Bara’a Al-Osaily i am 25 years old, I studied bachor’s degree in 
 | Class 05 | [Thinking in React](readfive.md)                   |
 | class 06 | [Node js](readsix.md)                              |
 | class07  | [REST](readseven.md)                               |
-| class08  | ---                                                |
+| class08  | [API Design best practice](readeight)              |
 | class09  | ---                                                |
 | class10  | ---                                                |
 | class11  | ---                                                |
