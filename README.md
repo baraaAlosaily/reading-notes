@@ -40,18 +40,18 @@ My name is Bara’a Al-Osaily i am 25 years old, I studied bachor’s degree in 
 
 ## Code 301 - Intermediate Software Development
 
-| Name     | Title                                              |
-| -------- | -------------------------------------------------- |
-| class 01 | [Introduction to React and Components](readone.md) |
-| class 02 | [React: Component Lifecycle Events](readtwo.md)    |
-| class 03 | [Passing Functions as Props](raedthree.md)---      |
-| class 04 | [React and Forms](readfour.md)                     |
-| Class 05 | [Thinking in React](readfive.md)                   |
-| class 06 | [Node js](readsix.md)                              |
-| class07  | [REST](readseven.md)                               |
-| class08  | [API Design best practice](readeight.md)           |
-| class09  | [Functional Programming Concepts](raednine.md)     |
-| class10  | ---                                                |
-| class11  | ---                                                |
-| class12  | --                                                 |
-| class13  | ---                                                |
+| Name     | Title                                                 |
+| -------- | ----------------------------------------------------- |
+| class 01 | [Introduction to React and Components](readone.md)    |
+| class 02 | [React: Component Lifecycle Events](readtwo.md)       |
+| class 03 | [Passing Functions as Props](raedthree.md)---         |
+| class 04 | [React and Forms](readfour.md)                        |
+| Class 05 | [Thinking in React](readfive.md)                      |
+| class 06 | [Node js](readsix.md)                                 |
+| class07  | [REST](readseven.md)                                  |
+| class08  | [API Design best practice](readeight.md)              |
+| class09  | [Functional Programming Concepts](raednine.md)        |
+| class10  | [Understanding the JavaScript Call Stack](readten.md) |
+| class11  | ---                                                   |
+| class12  | --                                                    |
+| class13  | ---                                                   |
