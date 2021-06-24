@@ -54,4 +54,6 @@ My name is Bara’a Al-Osaily i am 25 years old, I studied bachor’s degree in 
 | class10  | [Understanding the JavaScript Call Stack](readten.md) |
 | class11  | [Authentication](read11103.md)                        |
 | class12  | [Mongo and Mongoose](read12103.md)                    |
-| class13  |[CRUD](read13103.md)                                                 |
+| class13  |[CRUD](read13103.md)                                   |
+| class14  |[Diversity of industry](read14103.md)                  |
+| Class15  |[Project KickOff](read15103.md)                        |
