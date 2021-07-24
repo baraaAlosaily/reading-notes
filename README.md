@@ -60,7 +60,7 @@ My name is Bara’a Al-Osaily i am 25 years old, I studied bachor’s degree in 
 
 | Name     | Title                                                 |
 | -------- | ----------------------------------------------------- |
-| class 01 | ---    |
+| class 01 | [Java Basic](read401-1.md)    |
 | class 02 | ---       |
 | class 03 | ---         |
 | class 04 | ---                        |
