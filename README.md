@@ -67,7 +67,7 @@ My name is Bara’a Al-Osaily i am 25 years old, I studied bachor’s degree in 
 | Class 05 | [Linked Lists](read401-5.md)                          |
 | class 06 | [inhertance and interface](read401-6.md)                                 |
 | class07  | ---                               |
-| class08  | ---            |
+| class08  | [OO Design](read401-8.md)            |
 | class09  | ---         |
 | class10  | ---  |
 | class11  | ---                      |
