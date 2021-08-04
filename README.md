@@ -69,7 +69,7 @@ My name is Bara’a Al-Osaily i am 25 years old, I studied bachor’s degree in 
 | class07  | ---                               |
 | class08  | [OO Design](read401-8.md)         |
 | class09  | [WRRC and Java](read401-9.md)     |
-| class10  | ---  |
+| class10  | [Stacks and Queues](read401-10.md) |
 | class11  | ---                      |
 | class12  | ---                    |
 | class13  |---                                                  |
