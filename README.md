@@ -73,6 +73,6 @@ My name is Bara’a Al-Osaily i am 25 years old, I studied bachor’s degree in 
 | class11  | [Spring](read401-11.md)                      |
 | class12  | [Spring RESTful Routing & Static Files](read401-12.md)                    |
 | class13  |---                                                  |
-| class13  |---                                |
+| class13  |[Related Resources and Integration Testing](read401-13.md)                              |
 | class14  |---                |
 | Class15  |---                       |
