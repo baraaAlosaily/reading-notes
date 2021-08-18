@@ -78,3 +78,4 @@ My name is Bara’a Al-Osaily i am 25 years old, I studied bachor’s degree in 
 | Class16  |[Spring Authentication](read401-16.md)|
 | class17  |[Spring Boot and OAuth2](read401-17.md)|
 | class18  |[Hibernate Many to Many Annotation Tutorial](read401-18.md)|
+| class19  |[Real time messaging with websockets](read401-19.md)|
