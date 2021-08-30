@@ -54,7 +54,7 @@ My name is Bara’a Al-Osaily i am 25 years old, I studied bachor’s degree in 
 | class10  | [Understanding the JavaScript Call Stack](readten.md) |
 | class11  | [Authentication](read11103.md)                        |
 | class12  | [Mongo and Mongoose](read12103.md)                    |
-| class13  |[CRUD](read13103.md)                                                 |
+| class13  |[CRUD](read13103.md)                                   |
 
 ## Code 401 - Advance Software Development (Java)
 
@@ -80,3 +80,4 @@ My name is Bara’a Al-Osaily i am 25 years old, I studied bachor’s degree in 
 | class18  |[Hibernate Many to Many Annotation Tutorial](read401-18.md)|
 | class19  |[Real time messaging with websockets](read401-19.md)|
 | class26  |[Android Fundamentals](read401-26.md)|
+| class27  |[Intents, Activities, and SharedPreferences](read401-27.md)|
