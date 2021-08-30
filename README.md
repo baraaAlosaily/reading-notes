@@ -81,3 +81,4 @@ My name is Bara’a Al-Osaily i am 25 years old, I studied bachor’s degree in 
 | class19  |[Real time messaging with websockets](read401-19.md)|
 | class26  |[Android Fundamentals](read401-26.md)|
 | class27  |[Intents, Activities, and SharedPreferences](read401-27.md)|
+| class28  |[Create dynamic lists with RecyclerView](read401-28.md)|
