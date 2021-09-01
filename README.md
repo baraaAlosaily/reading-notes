@@ -83,3 +83,4 @@ My name is Bara’a Al-Osaily i am 25 years old, I studied bachor’s degree in 
 | class27  |[Intents, Activities, and SharedPreferences](read401-27.md)|
 | class28  |[Create dynamic lists with RecyclerView](read401-28.md)|
 |class29 |[Room](read401-29.md)|
+|class30 |[HashTable](read401-30.md)
