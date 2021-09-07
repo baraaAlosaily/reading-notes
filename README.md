@@ -85,4 +85,5 @@ My name is Bara’a Al-Osaily i am 25 years old, I studied bachor’s degree in 
 |class29 |[Room](read401-29.md)|
 |class30 |[HashTable](read401-30.md)|
 |class31 |[Espresso](read401-31.md)|
-|Class32 |[Serverless and Amplify](./read401-32.md)
+|Class32 |[Serverless and Amplify](./read401-32.md)|
+|Class33 |[GraphQL @connection](./read401-33.md)|
